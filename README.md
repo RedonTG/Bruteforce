@@ -8,5 +8,5 @@ Customizable Failure Detection: Define a specific string that appears in the pag
 Cookie Support: Accepts an optional cookie to handle sessions if needed.
 Color-Coded Output: Displays login attempts in red and successful login credentials in green for easy visibility.
 
-## Warning: This script is for educational and authorized testing purposes only. Unauthorized usage of brute-force techniques is illegal and can lead to serious consequences.
+
 
